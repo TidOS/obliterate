@@ -1,0 +1,28 @@
+import java.awt.*;
+import javax.swing.*;
+import java.awt.event.*;
+import java.io.*;
+import java.util.*;
+
+public class Save_Menu implements Menu
+{
+	public Save_Menu()
+	{
+		
+	}
+	
+	public void render(Graphics g,int x,int y,int key,Screen s)
+	{
+		
+	}
+	
+	public void getInput()
+	{
+		
+	}
+	
+	public boolean saveGame(String input)
+	{
+		return true;
+	}
+}

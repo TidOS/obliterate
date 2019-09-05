@@ -1,0 +1,10 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1280x759+0+17
+
+[File Loader]
+Files=file:///home/jordan/projects/Obliterate/src/Block.java#8%%%file:///home/jordan/projects/Obliterate/src/Character.java#1%%%file:///home/jordan/projects/Obliterate/src/Configure_Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Enemy.java#1%%%file:///home/jordan/projects/Obliterate/src/Game.java#116%%%file:///home/jordan/projects/Obliterate/src/GameSave.java#1%%%file:///home/jordan/projects/Obliterate/src/Inventory_Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Level.java#30%%%file:///home/jordan/projects/Obliterate/src/Load_Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Main_Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Player.java#202%%%file:///home/jordan/projects/Obliterate/src/PlayerDeath.java#1%%%file:///home/jordan/projects/Obliterate/src/Projectile.java#1%%%file:///home/jordan/projects/Obliterate/src/RandomNumbers.java#1%%%file:///home/jordan/projects/Obliterate/src/Save_Menu.java#1%%%file:///home/jordan/projects/Obliterate/src/Screen.java#1%%%file:///home/jordan/projects/Obliterate/src/Section.java#8%%%file:///home/jordan/projects/Obliterate/src/SectionGUI.java#1%%%file:///home/jordan/projects/Obliterate/src/Trap.java#1%%%file:///home/jordan/projects/Obliterate/src/Weapon.java#20
+
+[Execution]
+Run in terminal=2

@@ -1,0 +1,37 @@
+main menu
+	*arrow keys work  (high)
+	*selecting open the rights thing  (high)
+load_menu
+	*load game works (med-high)
+	*arrow keyw work (med-high)
+	*return to main_menu works (low)
+configure_menu
+	*prints out the right key (high)
+	*selecting opens the right thing (high
+	*arrow keys work
+	*saves correctly
+	*returns to main_menu correctly
+save_menu
+	*save game
+	*arrow keys work
+	*start loading next level
+inventory_menu
+	*keys work to select weapon
+	*successfully changes weapon after checking to see if there's ammo
+enemy
+	*renders properly
+	*moves on path correctly
+	*shoots at intervals we define
+game
+	*block/trap actions collision
+	*Projectile collision
+	*Enemy death
+	*Player death
+	*background renders
+player
+	*player death
+	*sprite renders correctly
+	*switches weapons correctly
+	*fires correctly
+	*moves based on keys in configuration.
+	
