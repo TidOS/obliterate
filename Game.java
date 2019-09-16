@@ -35,7 +35,7 @@ public class Game extends JPanel implements Menu
 	{
 		s = sIn;
 		Toolkit toolkit=Toolkit.getDefaultToolkit();
-		player = new Player("Nigger Charlie",s);
+		player = new Player("Charlie",s);
 		bullets= new ArrayList<Projectile>();
 		Ebullets= new ArrayList<Projectile>();
 		count=0;
